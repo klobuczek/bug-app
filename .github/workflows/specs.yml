@@ -15,8 +15,8 @@ jobs:
       matrix:
         ruby: [ jruby-9.2.20.1, jruby-9.3.2.0 ]
         coverage: [ false, true ]
-        env:
-          COVERAGE: ${{ matrix.coverage }}
+    env:
+      COVERAGE: ${{ matrix.coverage }}
     steps:
       - uses: actions/checkout@v2
 
