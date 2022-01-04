@@ -1,0 +1,128 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/heinrich/mck/examples/bug-app/config/boot.rb": {
+        "lines": [
+          1,
+          null,
+          1
+        ]
+      },
+      "/Users/heinrich/mck/examples/bug-app/config/application.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/heinrich/mck/examples/bug-app/config/environment.rb": {
+        "lines": [
+          null,
+          1,
+          null,
+          null,
+          1
+        ]
+      },
+      "/Users/heinrich/mck/examples/bug-app/app/mailers/application_mailer.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/heinrich/mck/examples/bug-app/config/environments/test.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/heinrich/mck/examples/bug-app/app/mailers/bug_mailer.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          1,
+          0,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1641333613
+  }
+}
