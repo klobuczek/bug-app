@@ -95,6 +95,7 @@ GEM
     zeitwerk (2.5.3)
 
 PLATFORMS
+  java
   universal-java-11
 
 DEPENDENCIES
