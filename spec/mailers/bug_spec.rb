@@ -1,7 +1,7 @@
 require "rails_helper"
 
-RSpec.describe BugMailer, type: :mailer do
+RSpec.describe 'BugMailer', type: :mailer do
   it 'bug' do
-    BugMailer.bug.deliver_now
+    ActionMailer::Base.mail(to: 'someone@somewhere.com', from: 'from@example.com', body: '')
   end
 end
